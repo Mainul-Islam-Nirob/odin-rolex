@@ -34,7 +34,7 @@ Currently it's only for Desktop. I'll make responsive later
 
 ### Links
 
-Live Site URL: [Live site of the challenge hosted here](#)
+Live Site URL: [Live site of the challenge hosted here](https://mainul-islam-nirob.github.io/odin-rolex/)
 
 ## My process
 
@@ -67,7 +67,7 @@ I want to focus more on creating more complex designs.
 
 ## Image Credit
 
-All Product Photo and Quote Background Photo by Antony Trivet from Pexels
+All Product Photo and Quote Background Photo by Antony Trivet from Pexels. 
 Header Section Image by <a href="https://pixabay.com/users/5598375-5598375/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3005574">5598375</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3005574">Pixabay</a>
 
 
