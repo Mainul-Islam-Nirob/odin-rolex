@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400&display=swap');
+
+body {
+    background-color: #fff;
+    font-family: 'Roboto',
+    sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.button {
+    background-color: #3882f6;
+    border: none;
+    color: #f9faf8;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
+
+.button:hover {
+    background-color: #f9faf8;
+    color: #3882f6;
+    cursor: pointer;
+}
+
+/* Header Section Style start */
+.header {
+    
+    background-color: rgba(11, 6, 51, 1);
+    padding: 20px 120px 100px;
+}
+
+.header .menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.header .menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+}
+
+.header .menu ul li a:hover {
+    border-bottom: 2px solid #3882f6;
+    border-top: 2px solid #3882f6;
+}
+
+.logo {
+    width: auto;
+    height: 60px;
+}
+
+.header .hero {
+    display: flex;
+    margin-top: 100px;
+}
+
+
+.hero-left .title{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-left .sub-title {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin-right: 50px;
+    line-height: normal;
+}
+
+.hero-left .button {
+    margin-top: 20px;
+}
+
+.hero-right img {
+    max-width: 600px;
+    height: auto;
+}
+
+/* Header section style end */
+
+
+/* Product section style start */
+.product {
+    text-align: center;
+    padding: 50px 120px 100px;
+}
+
+.product-title {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards .card {
+    width: 220px;
+    height: 250px;
+}
+
+.cards .card .img-container {
+    width: 230px;
+    height: 250px;
+}
+
+.cards .card img {
+    width: 100%;
+    height: 100%;
+    border: 5px solid #3882f6;
+    border-radius: 10px;
+}
+
+.cards .card p {
+    margin-top: 25px;
+     color: gray;
+     font-size: 18px;
+}
+
+/* Product section style end */
+
+
+/* Quote section style start */
+.quote {
+    /* background-color: #e5e7eb; */
+    padding: 130px 200px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("./image/QuoteWatch.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.774);
+}
+
+.quote p {
+    color: rgba(240, 240, 240, 0.918);
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    
+}
+
+.quote .author {
+    color: #65a0f1;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: end;
+    
+}
+/* Quote section style start */
+
+/* Subscribe section style start */
+.subscribe {
+    margin: 100px 120px;
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 45px 0;
+    border-radius: 15px;
+}
+
+.subscribe h2 {
+    margin: 0;
+    padding: 0;
+    color: #f9faf8;
+}
+
+.subscribe p {
+    margin: 0;
+    padding: 0;
+    color: #e5e5e5;
+}
+
+.subscribe .button {
+    border: 2px solid #f9faf8;
+}
+/* Subscribe section style start */
+
+/* Footer section style start */
+.footer {
+    text-align: center;
+    background-color: rgba(11, 6, 51, 1);
+    padding: 30px 120px;
+    color: #f9faf8;
+
+
+}
+
+.footer a {
+    text-decoration: none;
+    color: #f9faf8;
+    border-bottom: 3px solid #3882f6;
+}  
+
+/* Footer section style start */
